@@ -25,7 +25,11 @@ The following gif displays the particle filter estimations. The RMSE values of x
 
 ![](kidnapped_vehicle.gif)
 
+## Authors
 
+* Chenxin Wang
+
+Thanks for the contributions from Udacity
 
 
 
